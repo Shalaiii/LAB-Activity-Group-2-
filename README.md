@@ -1,8 +1,8 @@
 # GemillanTaskManager
 # INTRODUCTION
-![image](https://github.com/user-attachments/assets/c9f82fc7-e1e0-4f8a-be0a-9ee0a57b1f40)
-
 The GemillanTaskManager is a simple console application built in Java that demonstrates the use of a min-heap structure. It has a functions of a task priority manager, enabling users to organize and process tasks based on their urgency, with the lowest number being the most priority.
+
+![image](https://github.com/user-attachments/assets/c9f82fc7-e1e0-4f8a-be0a-9ee0a57b1f40)
 
 # FEATURES
 
